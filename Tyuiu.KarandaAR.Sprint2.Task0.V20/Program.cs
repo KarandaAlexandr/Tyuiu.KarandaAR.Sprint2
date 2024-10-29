@@ -22,7 +22,7 @@ namespace Tyuiu.KarandaAR.Sprint2.Task0.V20
             Console.WriteLine("* Написать программу из операций сравнений                                *");
             Console.WriteLine("* (==, !=, <, >, <=, >=, последовательность операций не должна нарушаться)*");
             Console.WriteLine("* и арифметических выражений, которая вернет логическую последовательность*");
-            Console.WriteLine("* (массив): (True, False, True, True, True, False), при x = 1075, y = 275 *");
+            Console.WriteLine("* (массив): (True, False, True, False, True, False), при x = 1075, y = 275*");
             Console.WriteLine("*                                                                         *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");

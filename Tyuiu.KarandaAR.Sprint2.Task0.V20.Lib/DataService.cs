@@ -6,7 +6,7 @@ namespace Tyuiu.KarandaAR.Sprint2.Task0.V20.Lib
     {
         public bool[] GetCompareOperations(int x, int y)
         {
-            bool[] array = { x == y + 800, x != y + 800, y < x, y < x, y <= x, y >= x };
+            bool[] array = { x == y + 800, x != y + 800, y < x, y > x, y <= x, y >= x };
             return array;
         }
     }
