@@ -11,7 +11,7 @@ namespace Tyuiu.KarandaAR.Sprint2.Task3.V29
             Console.Title = "Спринт #3 | Выполнил: Каранда А. Р. | АСОиУб-24-1";
 
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("* Спринт #3                                                               *");
+            Console.WriteLine("* Спринт #2                                                               *");
             Console.WriteLine("* Тема: Условные операторы                                                *");
             Console.WriteLine("* Задание #3                                                              *");
             Console.WriteLine("* Вариант #29                                                             *");
