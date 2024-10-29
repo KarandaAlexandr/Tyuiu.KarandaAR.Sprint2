@@ -7,7 +7,7 @@ namespace Tyuiu.KarandaAR.Sprint2.Task4.V30.Lib
         public double Calculate(double x, double y)
         {
             double z = x * 2 > y ? Math.Pow(6 + (4 / Math.Pow(x, 2)), y) : y + (2 / Math.Pow(x, 2));
-            return Math.Round(z);
+            return Math.Round(z, 3);
         }
     }
 }
