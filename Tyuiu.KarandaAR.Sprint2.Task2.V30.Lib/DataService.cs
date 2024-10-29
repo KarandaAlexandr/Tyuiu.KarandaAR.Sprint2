@@ -25,7 +25,7 @@ namespace Tyuiu.KarandaAR.Sprint2.Task2.V30.Lib
                 { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 }
             };
 
-            return matrix[x, y] == 1;
+            return matrix[y - 1, x - 1] == 1;
         }
     }
 }
